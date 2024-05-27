@@ -45,4 +45,4 @@
   <img align="center" alt="mysql" height="50" width="50" style="margin-right: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&fontAlignY=30"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Obrigado%20pela%20visita!&section=footer&reversal=false&fontAlignY=75&fontSize=50&fontColor=000000&animation=blink&stroke=fff&strokeWidth=1"/>
