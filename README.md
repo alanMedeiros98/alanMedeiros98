@@ -1,11 +1,11 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=header"/> -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Seja%20Bem%20vindo!&section=header&reversal=false&fontAlignY=30&fontSize=50&fontColor=000000&animation=blink&stroke=fff&strokeWidth=1"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=47bee8&size=40&center=false&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alan+Duarte+de+Medeiros,;eu+tenho+26+anos,;e+esse+é+o+meu+perfil+do+GitHub!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=47bee8&size=40&center=false&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alan+Duarte+de+Medeiros,;tenho+26+anos,;e+esse+é+o+meu+perfil+do+GitHub!!)](https://git.io/typing-svg)
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alanMedeiros98&show_icons=true&count_private=true&hide_border=false&title_color=47bee8&icon_color=47bee8&text_color=C0C0C0&bg_color=111f24" alt="Alan Medeiros github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanMedeiros98&layout=compact&hide_border=false&title_color=47bee8&text_color=47bee8&bg_color=111f24" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alanMedeiros98&show_icons=true&count_private=true&hide_border=false&title_color=47bee8&icon_color=47bee8&text_color=C0C0C0&bg_color=111f24" alt="Alan Medeiros github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanMedeiros98&layout=compact&hide_border=false&title_color=47bee8&text_color=47bee8&bg_color=111f24" />
 </div>
 
 ---
