@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=40&center=false&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alan+Duarte+de+Medeiros;Eu+tenho+25+anos,;e+Seja+Bem+Vindo,+ao+meu+perfil+do+GitHub!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=40&center=false&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alan+Duarte+de+Medeiros;Eu+tenho+26+anos,;e+Seja+Bem+Vindo,+ao+meu+perfil+do+GitHub!!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alanMedeiros98&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=C0C0C0&bg_color=0d1117" alt="Alan Medeiros github stats" /> 
