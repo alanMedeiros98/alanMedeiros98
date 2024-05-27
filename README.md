@@ -14,7 +14,9 @@
 
 ---
 
-![Snake animation](https://github.com/alanMedeiros98/alanMedeiros98/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/alanMedeiros98/alanMedeiros98/blob/output/github-contribution-grid-snake.svg) -->
+
+
 
 ---
 
